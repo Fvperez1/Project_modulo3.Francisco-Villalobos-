@@ -7,3 +7,5 @@ The goal of this portfolio is to help you win kaggle's competition by having the
 How it works
 Open the folder 'jupyter-notebook', you'll find a file called 'Kaggle_Competition.ipynb' to see how I resolve the competition.
 Both train and test datasets are available on the data folder.
+
+![image](https://user-images.githubusercontent.com/102686594/194706835-ff97504b-6bf1-47a2-b9f5-893a2ad08f87.png)
