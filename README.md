@@ -8,4 +8,5 @@ How it works
 Open the folder 'jupyter-notebook', you'll find a file called 'Kaggle_Competition.ipynb' to see how I resolve the competition.
 Both train and test datasets are available on the data folder.
 
-![image](https://user-images.githubusercontent.com/102686594/194706835-ff97504b-6bf1-47a2-b9f5-893a2ad08f87.png)
+![image](https://user-images.githubusercontent.com/102686594/194706870-bcc596f0-b06f-40ca-9931-01b5ee0b8cbb.png)
+
